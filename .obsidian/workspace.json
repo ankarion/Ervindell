@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Персонажи/Гимли Славный.md",
+                "file": "02.Персонажи/Гаретт.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Гимли Славный"
+              "title": "Гаретт"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Персонажи/Гимли Славный.md",
+                "file": "02.Персонажи/Гаретт.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Гимли Славный"
+              "title": "Backlinks for Гаретт"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Персонажи/Гимли Славный.md",
+                "file": "02.Персонажи/Гаретт.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Гимли Славный"
+              "title": "Outgoing links from Гаретт"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Персонажи/Гимли Славный.md",
+                "file": "02.Персонажи/Гаретт.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Гимли Славный"
+              "title": "Outline of Гаретт"
             }
           }
         ]
@@ -167,15 +167,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d85463bb3aa1741",
+  "active": "13e642ae8c186181",
   "lastOpenFiles": [
+    "02.Персонажи/Гимли Славный.md",
+    "02.Персонажи/Гаретт.md",
     "02.Персонажи/Зул.md",
     "01.Заметки/Гаретт/03.Щит.md",
     "02.Персонажи/Зёма.md",
     "03.Локации/Тян-цзы.md",
     "03.Локации/Хальт.md",
     "03.Places",
-    "02.Персонажи/Гимли Славный.md",
     "02.Персонажи/Нахана.md",
     "01.Заметки/Гаретт/02.Собес охрана деревни.md",
     "02.Персонажи/Ирма.md",
@@ -195,7 +196,6 @@
     "02.Персонажи/Виктория.md",
     "02.Персонажи/Игги.md",
     "02.Персонажи/Сапфира.md",
-    "02.Персонажи/Квиккерт.md",
-    "02.Персонажи/Тильда.md"
+    "02.Персонажи/Квиккерт.md"
   ]
 }
