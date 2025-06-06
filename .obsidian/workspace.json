@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Персонажи/Хроб.md",
-                "mode": "source",
-                "source": false
+                "file": "01.Заметки/Хроб/09.Library heist.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Хроб"
+              "title": "09.Library heist"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Персонажи/Хроб.md",
+                "file": "01.Заметки/Хроб/09.Library heist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Хроб"
+              "title": "Backlinks for 09.Library heist"
             }
           },
           {
@@ -170,13 +170,13 @@
   },
   "active": "13e642ae8c186181",
   "lastOpenFiles": [
-    "01.Заметки/Хроб/01.Легенды сбываются.md",
+    "01.Заметки/Хроб/Мотивация.canvas",
     "02.Персонажи/Хроб.md",
+    "01.Заметки/Хроб/01.Легенды сбываются.md",
     "01.Заметки/Хроб/00.Дневник.md",
     "01.Заметки/Хроб/HrobsMap.excalidraw.png",
     "01.Заметки/Хроб/ХБ_Капкан.md",
     "01.Заметки/Хроб/HrobsMap.excalidraw.md",
-    "01.Заметки/Хроб/Мотивация.canvas",
     "01.Заметки/Хроб/29. WTF.md",
     "01.Заметки/Хроб/Логи ХП.md",
     "01.Заметки/Хроб/28. Возвращение с плана фей.md",
@@ -197,7 +197,6 @@
     "01.Заметки/Хроб/13.Поиск маг предмета.md",
     "01.Заметки/Хроб/12.Месяц помощи.md",
     "01.Заметки/Хроб/11.Охрана чертежей.md",
-    "01.Заметки/Хроб/10.Встреча Таши.md",
     "01.Заметки/Хроб",
     "01.Заметки/Hrob/Мотивация.canvas",
     "01.Заметки/Hrob/HrobsMap.excalidraw.png",
